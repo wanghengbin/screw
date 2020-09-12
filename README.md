@@ -5,3 +5,4 @@ screw测试项目
 参考链接：
 https://github.com/pingfangushi/screw
 
+使用LGPL3 license，正常严格禁止在产品中使用！！！
